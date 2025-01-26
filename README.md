@@ -31,3 +31,4 @@ Tools and Technologies
 
 3. Dataset: Restaurant database with menu and order details.
 
+![Screenshot (152)](https://github.com/user-attachments/assets/4ba545c3-01a8-4533-8fec-8f392b3b6fb6)
